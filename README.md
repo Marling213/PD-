@@ -83,6 +83,5 @@ sudo xattr -d com.apple.quarantine /Applications/xxx.app
 ```
 
 ![](https://dvoau5w1ugj.feishu.cn/space/api/box/stream/download/asynccode/?code=N2EyODNkMTY0YzBiYTMxMDY1MzE3ZTY5MDFjM2FjZGZfbWpGcXZ2c3R2N1BVMmZVYzJHb0R0TG9CamZoVnpPRW5fVG9rZW46Qm5kcWJsU21hb3J5WmR4UDBJeWNxMnhQbmNoXzE3NTI2NTIwMTk6MTc1MjY1NTYxOV9WNA)
-```ad-warning
 **声明：**根据中华人民共和国《计算机软件保护条例》第十七条规定：“为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬。”本店大部分下载资源收集于网络，只做学习和交流使用，版权归原作者所有。若您需要使用非免费的软件或服务，请购买正版授权并合法使用。本店发布的内容若侵犯到您的权益，请联系店长删除，我们将及时处理。用户本人下载后不能用作商业或非法用途，需在24小时之内删除，否则后果均由用户承担责任。
-```
+
