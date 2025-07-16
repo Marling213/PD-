@@ -10,7 +10,7 @@
 ```Plain
 xattr -cr * && chmod +x *.sh && sudo sh ./crack.sh
 ```
-![[PD教程0603.mp4]]🔥🔥🔥官网最新20.3.2（55975）【选1即可正常使用】激活补丁已更新至v14，只是版本没改；记得在偏好设置中关闭自动更新，弹窗的时候，不要点以后再提示，直接点左上角关闭，然后退出再点开就没有更新弹窗了。
+![[[PD教程0603.mp4](https://dvoau5w1ugj.feishu.cn/docx/C7Q9dGoUboNDW5xl1wAcOyVUnwc#share-Zz9AdOtjoo4GKXxp3plcgzUbnWg)]]🔥🔥🔥官网最新20.3.2（55975）【选1即可正常使用】激活补丁已更新至v14，只是版本没改；记得在偏好设置中关闭自动更新，弹窗的时候，不要点以后再提示，直接点左上角关闭，然后退出再点开就没有更新弹窗了。
 ————————————————————————————————————————————————
 ![](https://dvoau5w1ugj.feishu.cn/space/api/box/stream/download/asynccode/?code=N2E1NjUwYTllZTU5MWU1ZmU0MmMxYmUxZTAyZGVkMGFfQkl6UHdEbHZ1ZHQ4RURQblBYSGY2RGltZkNyMm1nc3lfVG9rZW46U0VQb2JVeUdBb3ZaazB4bmNTMWNreFJYblliXzE3NTI2NTE3NDg6MTc1MjY1NTM0OF9WNA)
 ———————————————————————————————————————————————
