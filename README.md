@@ -1,5 +1,6 @@
 | 激活工具（点击右侧下载） | https://github.com/Marling213/PD-/releases/download/none/PDCrackTool-v14.zip                                         |
 | ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| 最新版带安装包和激活工具支持20.4  | [https://pan.quark.cn/s/bccdaf8243a4](https://pan.quark.cn/s/bccdaf8243a4)                                           |
 | 激活工具备用链接     | [https://pan.baidu.com/s/1WfW19rQ8AqnMg_AxSn-HRA?pwd=6666](https://pan.baidu.com/s/1WfW19rQ8AqnMg_AxSn-HRA?pwd=6666) |
 | PD虚拟机官网下载    | https://www.parallels.cn/products/desktop/welcome                                                                    |
 | PD虚拟机历史版本下载  | [https://pan.quark.cn/s/bccdaf8243a4](https://pan.quark.cn/s/bccdaf8243a4)                                           |
